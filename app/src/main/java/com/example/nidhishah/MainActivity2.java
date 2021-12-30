@@ -45,7 +45,7 @@ public class MainActivity2 extends AppCompatActivity {
         });
 
 
-        btn_2 = findViewById(R.id.button9);
+        /*btn_2 = findViewById(R.id.button9);
         btn_2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -53,6 +53,6 @@ public class MainActivity2 extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity2.this,MainActivity3.class);
                 startActivity(intent);
             }
-        });
+        });*/
     }
 }
